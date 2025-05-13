@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Da Nang Beauty - Premium Tours & Transportation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <h1>다낭 투어 <span>Da Nang Tours</span></h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home" class="active">홈 (Home)</a></li>
+                    <li><a href="#destinations">명소 (Destinations)</a></li>
+                    <li><a href="#services">서비스 (Services)</a></li>
+                    <li><a href="#fleet">차량 (Fleet)</a></li>
+                    <li><a href="#gallery">갤러리 (Gallery)</a></li>
+                    <li><a href="#contact">연락처 (Contact)</a></li>
+                    <li class="language-toggle">
+                        <a href="#" class="lang-btn">KO | EN</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="hamburger">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">다낭의 아름다움을 경험하세요</h1>
+            <h2 class="hero-subtitle">Experience the Beauty of Da Nang</h2>
+            <p class="hero-description">최고급 투어 서비스와 300대의 차량으로 다낭의 모든 명소를 편안하게 여행하세요</p>
+            <div class="hero-buttons">
+                <a href="#contact" class="btn btn-primary">투어 예약하기 (Book Now)</a>
+                <a href="#services" class="btn btn-secondary">서비스 보기 (Our Services)</a>
+            </div>
+        </div>
+        <div class="hero-overlay"></div>
+    </section>
+
+    <!-- Destinations Section -->
+    <section id="destinations" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>다낭의 주요 명소</h2>
+                <p>Da Nang's Top Destinations</p>
+            </div>
+            <div class="destinations-grid">
+                <div class="destination-card" data-aos="fade-up">
+                    <div class="destination-img">
+                        <img src="./images/destinations/marble-mountains.jpg" alt="Marble Mountains">
+                    </div>
+                    <div class="destination-info">
+                        <h3>마블 마운틴</h3>
+                        <h4>Marble Mountains</h4>
+                        <p>신비로운 동굴과 사원이 있는 대리석 산</p>
+                        <a href="#contact" class="btn-small">투어 예약</a>
+                    </div>
+                </div>
+                <div class="destination-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="destination-img">
+                        <img src="./images/destinations/my-khe-beach.jpg" alt="My Khe Beach">
+                    </div>
+                    <div class="destination-info">
+                        <h3>미케 비치</h3>
+                        <h4>My Khe Beach</h4>
+                        <p>세계적으로 아름다운 해변으로 알려진 곳</p>
+                        <a href="#contact" class="btn-small">투어 예약</a>
+                    </div>
+                </div>
+                <div class="destination-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="destination-img">
+                        <img src="./images/destinations/dragon-bridge.jpg" alt="Dragon Bridge">
+                    </div>
+                    <div class="destination-info">
+                        <h3>용다리</h3>
+                        <h4>Dragon Bridge</h4>
+                        <p>화려한 조명과 주말 불쇼가 유명한 다리</p>
+                        <a href="#contact" class="btn-small">투어 예약</a>
+                    </div>
+                </div>
+                <div class="destination-card" data-aos="fade-up" data-aos-delay="300">
+                    <div class="destination-img">
+                        <img src="./images/destinations/ba-na-hills.jpg" alt="Ba Na Hills">
+                    </div>
+                    <div class="destination-info">
+                        <h3>바나 힐</h3>
+                        <h4>Ba Na Hills</h4>
+                        <p>황금 다리와 프랑스 마을이 있는 테마파크</p>
+                        <a href="#contact" class="btn-small">투어 예약</a>
+                    </div>
+                </div>
+                <div class="destination-card" data-aos="fade-up" data-aos-delay="400">
+                    <div class="destination-img">
+                        <img src="./images/destinations/hoi-an.jpg" alt="Hoi An Ancient Town">
+                    </div>
+                    <div class="destination-info">
+                        <h3>호이안 고대도시</h3>
+                        <h4>Hoi An Ancient Town</h4>
+                        <p>유네스코 세계문화유산으로 등재된 아름다운 고대 도시</p>
+                        <a href="#contact" class="btn-small">투어 예약</a>
+                    </div>
+                </div>
+                <div class="destination-card" data-aos="fade-up" data-aos-delay="500">
+                    <div class="destination-img">
+                        <img src="./images/destinations/son-tra-peninsula.jpg" alt="Son Tra Peninsula">
+                    </div>
+                    <div class="destination-info">
+                        <h3>손짜 반도</h3>
+                        <h4>Son Tra Peninsula</h4>
+                        <p>아름다운 해안 경치와 희귀 원숭이가 있는 자연 보호구역</p>
+                        <a href="#contact" class="btn-small">투어 예약</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="section bg-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>프리미엄 서비스</h2>
+                <p>Our Premium Services</p>
+            </div>
+            <div class="services-container">
+                <div class="service-card" data-aos="zoom-in">
+                    <div class="service-icon">
+                        <img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=200&h=200&fit=crop&q=80" alt="Custom Tours">
+                    </div>
+                    <h3>맞춤형 투어</h3>
+                    <h4>Custom Tours</h4>
+                    <p>고객의 취향과 일정에 맞춘 특별한 투어 일정을 제공합니다.</p>
+                </div>
+                <div class="service-card" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="service-icon">
+                        <img src="./images/fleet/sedan.jpg" alt="Private Transportation">
+                    </div>
+                    <h3>프라이빗 운송</h3>
+                    <h4>Private Transportation</h4>
+                    <p>300대의 차량으로 어디든 편안하고 안전한 이동을 보장합니다.</p>
+                </div>
+                <div class="service-card" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="service-icon">
+                        <img src="./images/services/group.jpg" alt="Group Tours">
+                    </div>
+                    <h3>단체 투어</h3>
+                    <h4>Group Tours</h4>
+                    <p>경제적인 가격으로 다낭의 주요 명소를 방문하는 투어입니다.</p>
+                </div>
+                <div class="service-card" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="service-icon">
+                        <img src="./images/services/food.jpg" alt="Food Tours">
+                    </div>
+                    <h3>식도락 여행</h3>
+                    <h4>Food Tours</h4>
+                    <p>다낭의 맛있는 음식과 현지 식문화를 체험할 수 있는 투어입니다.</p>
+                </div>
+                <div class="service-card" data-aos="zoom-in" data-aos-delay="400">
+                    <div class="service-icon">
+                        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=200&h=200&fit=crop&q=80" alt="Beach Activities">
+                    </div>
+                    <h3>해변 액티비티</h3>
+                    <h4>Beach Activities</h4>
+                    <p>아름다운 해변에서 즐길 수 있는 다양한 수상 활동을 제공합니다.</p>
+                </div>
+                <div class="service-card" data-aos="zoom-in" data-aos-delay="500">
+                    <div class="service-icon">
+                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&q=80" alt="Korean Speaking Guides">
+                    </div>
+                    <h3>한국어 가이드</h3>
+                    <h4>Korean Speaking Guides</h4>
+                    <p>유창한 한국어를 구사하는 현지 가이드가 함께합니다.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Fleet Section -->
+    <section id="fleet" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>300대의 고급 차량</h2>
+                <p>Our Premium Fleet of 300 Vehicles</p>
+            </div>
+            <div class="fleet-content">
+                <p class="fleet-intro">다낭에서 가장 큰 규모의 차량을 보유하고 있으며, 최고의 안전과 편안함을 제공합니다.</p>
+                
+                <div class="fleet-cards">
+                    <div class="fleet-card" data-aos="fade-right">
+                        <img src="./images/fleet/sedan.jpg" alt="Luxury Sedan">
+                        <div class="fleet-info">
+                            <h3>럭셔리 세단</h3>
+                            <p>최대 4인, 공항 픽업 및 시내 이동에 적합</p>
+                        </div>
+                    </div>
+                    <div class="fleet-card" data-aos="fade-left">
+                        <img src="./images/fleet/uv.jpg" alt="Premium SUV">
+                        <div class="fleet-info">
+                            <h3>프리미엄 SUV</h3>
+                            <p>최대 6인, 가족 여행 및 소규모 그룹에 적합</p>
+                        </div>
+                    </div>
+                    <div class="fleet-card" data-aos="fade-right">
+                        <img src="./images/fleet/linmousine.jpg" alt="linmousine">
+                        <div class="fleet-info">
+                            <h3>럭셔리 밴</h3>
+                            <p>최대 12인, 단체 여행객 및 장거리 여행에 적합</p>
+                        </div>
+                    </div>
+                    <div class="fleet-card" data-aos="fade-left">
+                        <img src="./images/fleet/bus.jpg" alt="Tour Bus">
+                        <div class="fleet-info">
+                            <h3>투어 버스</h3>
+                            <p>최대 45인, 대규모 단체 투어에 적합</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="fleet-features">
+                    <div class="feature">
+                        <i class="fas fa-shield-alt"></i>
+                        <h4>안전 보장</h4>
+                        <p>모든 차량은 정기적인 안전 점검을 받습니다</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-snowflake"></i>
+                        <h4>에어컨 완비</h4>
+                        <p>더운 날씨에도 쾌적한 이동을 보장합니다</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-wifi"></i>
+                        <h4>무료 와이파이</h4>
+                        <p>모든 차량에서 인터넷을 이용할 수 있습니다</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-user-tie"></i>
+                        <h4>전문 기사</h4>
+                        <p>경험 많고 친절한 전문 기사들이 운행합니다</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="section bg-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>다낭의 아름다움</h2>
+                <p>Gallery of Da Nang's Beauty</p>
+            </div>
+            <div class="gallery-container">
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery1.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>미케 비치 일몰</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery2.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>황금의 다리</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery3.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>용다리 야경</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery4.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>마블 마운틴 동굴</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery5.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>손짜 반도 전망</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery6.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>호이안 야경</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery7.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>다낭 해변 파노라마</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fade-up">
+                    <img src="./images/gallery/gallery8.jpg" alt="Da Nang Scenery">
+                    <div class="gallery-overlay">
+                        <span>바나 힐 전경</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="section testimonials">
+        <div class="container">
+            <div class="section-header">
+                <h2>고객 후기</h2>
+                <p>What Our Clients Say</p>
+            </div>
+            <div class="testimonial-container">
+                <div class="testimonial-slide">
+                    <div class="testimonial">
+                        <div class="testimonial-content">
+                            <p>"다낭에서 최고의 여행 경험이었습니다. 차량도 깨끗하고 가이드도 친절했어요. 다음에 또 이용할게요!"</p>
+                        </div>
+                        <div class="testimonial-info">
+                            <div class="testimonial-name">김미나</div>
+                            <div class="testimonial-stars">★★★★★</div>
+                            <div class="testimonial-origin">서울, 한국</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-slide">
+                    <div class="testimonial">
+                        <div class="testimonial-content">
+                            <p>"한국어를 유창하게 하는 가이드 덕분에 편안하게 여행했습니다. 300대의 차량을 보유한 만큼 서비스가 정말 좋았어요."</p>
+                        </div>
+                        <div class="testimonial-info">
+                            <div class="testimonial-name">박준호</div>
+                            <div class="testimonial-stars">★★★★★</div>
+                            <div class="testimonial-origin">부산, 한국</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-slide">
+                    <div class="testimonial">
+                        <div class="testimonial-content">
+                            <p>"가족 여행으로 다낭에 왔는데, 맞춤형 투어 덕분에 아이들도 즐겁게 여행했습니다. 특히 바나 힐 투어가 인상적이었어요."</p>
+                        </div>
+                        <div class="testimonial-info">
+                            <div class="testimonial-name">이지연</div>
+                            <div class="testimonial-stars">★★★★★</div>
+                            <div class="testimonial-origin">대구, 한국</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testimonial-dots">
+                <span class="dot active"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>투어 예약 및 문의</h2>
+                <p>Book Your Tour or Contact Us</p>
+            </div>
+            <div class="contact-container">
+                <div class="contact-info">
+                    <div class="contact-methods">
+                        <div class="contact-method" data-aos="fade-right">
+                            <div class="contact-icon">
+                                <i class="fas fa-phone"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h3>전화</h3>
+                                <p>+84 935 012 371</p>
+                            </div>
+                        </div>
+                        <div class="contact-method" data-aos="fade-right" data-aos-delay="100">
+                            <div class="contact-icon">
+                                <i class="fas fa-comments"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h3>Zalo</h3>
+                                <p>0935012371</p>
+                                <a href="https://zalo.me/0935012371" class="zalo-link" target="_blank">Zalo로 연락하기</a>
+                            </div>
+                        </div>
+                        <div class="contact-method" data-aos="fade-right" data-aos-delay="200">
+                            <div class="contact-icon">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h3>이메일</h3>
+                                <p>info@danangtours.com</p>
+                            </div>
+                        </div>
+                        <div class="contact-method" data-aos="fade-right" data-aos-delay="300">
+                            <div class="contact-icon">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h3>주소</h3>
+                                <p>123 Nguyen Van Linh, Da Nang, Vietnam</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="contact-form" data-aos="fade-left">
+                    <h3>투어 예약 양식</h3>
+                    <form id="bookingForm">
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" placeholder="이름 (Name)" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" placeholder="이메일 (Email)" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="tel" id="phone" name="phone" placeholder="전화번호 (Phone)" required>
+                        </div>
+                        <div class="form-group">
+                            <select id="tourType" name="tourType" required>
+                                <option value="">투어 유형 선택 (Select Tour Type)</option>
+                                <option value="custom">맞춤형 투어 (Custom Tour)</option>
+                                <option value="group">단체 투어 (Group Tour)</option>
+                                <option value="transfer">공항 픽업 (Airport Transfer)</option>
+                                <option value="food">식도락 투어 (Food Tour)</option>
+                            </select>
+                        </div>
+                        <div class="form-group date-guests">
+                            <input type="date" id="date" name="date" required>
+                            <input type="number" id="guests" name="guests" placeholder="인원 (Guests)" min="1" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" placeholder="추가 요청사항 (Additional Requests)" rows="3"></textarea>
+                        </div>
+                        <button type="submit" class="btn-submit">예약 요청 (Book Now)</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta">
+        <div class="container">
+            <div class="cta-content">
+                <h2>다낭에서의 꿈같은 여행을 계획하세요</h2>
+                <p>300대의 차량과 전문 가이드가 여러분의 여행을 특별하게 만들어 드립니다</p>
+                <div class="cta-buttons">
+                    <a href="#contact" class="btn btn-primary">지금 예약하기</a>
+                    <a href="https://zalo.me/0935012371" class="btn btn-secondary" target="_blank">Zalo로 문의하기</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h2>다낭 투어 <span>Da Nang Tours</span></h2>
+                    <p>베트남 다낭의 아름다움을 경험하세요</p>
+                </div>
+                <div class="footer-links">
+                    <h3>빠른 링크</h3>
+                    <ul>
+                        <li><a href="#home">홈 (Home)</a></li>
+                        <li><a href="#destinations">명소 (Destinations)</a></li>
+                        <li><a href="#services">서비스 (Services)</a></li>
+                        <li><a href="#fleet">차량 (Fleet)</a></li>
+                        <li><a href="#gallery">갤러리 (Gallery)</a></li>
+                        <li><a href="#contact">연락처 (Contact)</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h3>연락처</h3>
+                    <p><i class="fas fa-phone"></i> +84 935 012 371</p>
+                    <p><i class="fas fa-comments"></i> Zalo: 0935012371</p>
+                    <p><i class="fas fa-envelope"></i> info@danangtours.com</p>
+                    <p><i class="fas fa-map-marker-alt"></i> 123 Nguyen Van Linh, Da Nang, Vietnam</p>
+                </div>
+                <div class="footer-social">
+                    <h3>팔로우하세요</h3>
+                    <div class="social-icons">
+                        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <a href="https://zalo.me/0935012371" target="_blank"><i class="fas fa-comments"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2023 Da Nang Tours. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html> 
