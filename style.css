@@ -1,0 +1,14 @@
+body {
+  background: #000;
+  color: #fff;
+  font-family: 'Cascadia Mono', 'Fira Mono', 'Consolas', 'Courier New', monospace;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+}
+pre {
+  margin: 0;
+  padding: 16px;
+  white-space: pre;
+  line-height: 1.2;
+} 
