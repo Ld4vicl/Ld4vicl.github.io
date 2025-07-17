@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ld4vicl</title>
   
-  <subtitle>subtitle</subtitle>
+  
   <link href="https://ld4vicl.github.io/atom.xml" rel="self"/>
   
   <link href="https://ld4vicl.github.io/"/>
-  <updated>2025-07-15T07:23:02.732Z</updated>
+  <updated>2025-07-16T15:49:52.150Z</updated>
   <id>https://ld4vicl.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://ld4vicl.github.io/2025/07/15/hello-world/"/>
-    <id>https://ld4vicl.github.io/2025/07/15/hello-world/</id>
-    <published>2025-07-15T07:23:02.731Z</published>
-    <updated>2025-07-15T07:23:02.732Z</updated>
+    <title></title>
+    <link href="https://ld4vicl.github.io/2025/07/16/z/"/>
+    <id>https://ld4vicl.github.io/2025/07/16/z/</id>
+    <published>2025-07-16T15:48:17.756Z</published>
+    <updated>2025-07-16T15:49:52.150Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="VSL-Summer-CTF-2025-Write-Ups-🏖️"><a href="#VSL-Summer-CTF-2025-Write-Ups-🏖️" class="headerlink" title="VSL Summer CTF 2025 Write-Ups 🏖️"></a>VSL Summer CTF 2025 Write-Ups 🏖️</h1><h2 id="Forensics"><a href="#Forensics" class="headerlink" title="Forensics"></a>Forensics</h2><p><a href="https://www.notion.so/Can-you-find-it-21b4ebcdb3ad806ead96c91116f9a7bc?pvs=21">Can you find it ?</a></p><p><a href="https://www.notion.so/Something-Is-Broken-Now-21b4ebcdb3ad8036bac3d36cd559c3f4?pvs=21"><strong>Something Is Broken Now</strong></a></p><p><a href="https://www.notion.so/bat-script-21c4ebcdb3ad80f3a792eb83106dde06?pvs=21"><strong>bat script</strong></a></p><p><a href="https://www.notion.so/log-log-log-21d4ebcdb3ad80308fbfcded1ee7c5db?pvs=21"><strong>log log log</strong></a></p><h2 id="Crypto"><a href="#Crypto" class="headerlink" title="Crypto"></a>Crypto</h2><p><a href="https://www.notion.so/Beginner-21b4ebcdb3ad8014a0dcfb9eab352a33?pvs=21"><strong>Beginner</strong></a></p><p><a href="https://www.notion.so/Evil-Service-21b4ebcdb3ad80448cc1dbf491d80135?pvs=21"><strong>Evil Service</strong></a></p><p><a href="https://www.notion.so/Time-Evidence-21b4ebcdb3ad80849f0fdef9b892ec76?pvs=21"><strong>Time Evidence</strong></a></p><p><a href="https://www.notion.so/D0r43m0n-21d4ebcdb3ad8059ae38cf305c6f64c7?pvs=21"><strong>D0r43m0n</strong></a></p><h1 style="color : red">## Reverse </h1><p><a href="https://www.notion.so/Passwd-Check-21b4ebcdb3ad806ca319d0e70fa1c4fa?pvs=21"><strong>Passwd Check</strong></a></p><p><a href="https://www.notion.so/Easy-Math-21b4ebcdb3ad80e28790d32d727a0f2f?pvs=21"><strong>Easy Math</strong></a></p><p><a href="https://www.notion.so/flapPyBird-21d4ebcdb3ad80f79645c7dfafea061c?pvs=21"><strong>flapPyBird</strong></a></p><h2 id="Web"><a href="#Web" class="headerlink" title="Web"></a>Web</h2><p><a href="https://www.notion.so/Upload-file-1-21b4ebcdb3ad807aa7b1d984a4d894fc?pvs=21"><strong>Upload file 1</strong></a></p><p><a href="https://www.notion.so/Beach-Shop-0-21b4ebcdb3ad80f6bc6ac5ec8981098c?pvs=21"><strong>Beach Shop 0</strong></a></p><h2 id="Pwn"><a href="#Pwn" class="headerlink" title="Pwn"></a>Pwn</h2><p><a href="https://www.notion.so/Beach-Store-PWN-21b4ebcdb3ad80fba051c70356ab95e3?pvs=21"><strong>Beach Store - PWN</strong></a></p><p><a href="https://www.notion.so/Hot-Hot-Hot-20a4ebcdb3ad80838611c0842984569e?pvs=21"><strong>Hot Hot Hot</strong></a></p><p><a href="https://www.notion.so/casino-21e4ebcdb3ad8092b9b3f07b4c6331e5?pvs=21">casino</a></p><h1 id="VSLCore2025-Pwn-Write-ups-🎗️"><a href="#VSLCore2025-Pwn-Write-ups-🎗️" class="headerlink" title="VSLCore2025 Pwn Write-ups 🎗️"></a>VSLCore2025 Pwn Write-ups 🎗️</h1><h2 id="Pwn-1"><a href="#Pwn-1" class="headerlink" title="Pwn"></a>Pwn</h2><p><a href="https://www.notion.so/arr_stk-2234ebcdb3ad80729e7ed836454ae813?pvs=21">arr_stk</a></p><p><a href="https://www.notion.so/feedback-2234ebcdb3ad806f9877f8d6c9146fd0?pvs=21">feedback</a></p><p><a href="https://www.notion.so/toa-n-ca-u-2234ebcdb3ad803a9df7c8bd31915998?pvs=21">toa<code>n ca^</code>u</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;VSL-Summer-CTF-2025-Write-Ups-🏖️&quot;&gt;&lt;a href=&quot;#VSL-Summer-CTF-2025-Write-Ups-🏖️&quot; class=&quot;headerlink&quot; title=&quot;VSL Summer CTF 2025 Write-</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[Writeup] - b01lers CTF (2025) - PWN</title>
+    <link href="https://ld4vicl.github.io/2025/04/22/hello-world/"/>
+    <id>https://ld4vicl.github.io/2025/04/22/hello-world/</id>
+    <published>2025-04-21T17:14:00.000Z</published>
+    <updated>2025-07-16T03:44:57.415Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -33,6 +53,14 @@
     
     
     
+    <category term="Writeup" scheme="https://ld4vicl.github.io/categories/Writeup/"/>
+    
+    <category term="PWN" scheme="https://ld4vicl.github.io/categories/Writeup/PWN/"/>
+    
+    
+    <category term="PWN" scheme="https://ld4vicl.github.io/tags/PWN/"/>
+    
+    <category term="Writeup" scheme="https://ld4vicl.github.io/tags/Writeup/"/>
     
   </entry>
   
@@ -41,7 +69,7 @@
     <link href="https://ld4vicl.github.io/2025/04/22/wu/"/>
     <id>https://ld4vicl.github.io/2025/04/22/wu/</id>
     <published>2025-04-21T17:14:00.000Z</published>
-    <updated>2025-07-16T03:43:02.985Z</updated>
+    <updated>2025-07-16T15:44:57.241Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-Thu-thap-thong-tin"><a href="#1-Thu-thap-thong-tin" class="headerlink" title="1. Thu thập thông tin :"></a>1. Thu thập thông tin :</h2><p>với đề bài nhận được chỉ là 1 câu lệnh : </p><p><code>docker run --rm -it -p 80:80 ph4n10m1808/findit</code></p><p>thì đây là câu lệnh docker dùng để chạy 1 container (tự động pull từ docker hub về nếu chưa có).</p><p>chạy  <a href="http://localhost/">http://localhost</a> thì có vẻ chỉ là 1 dòng chữ với không có gì khả nghi trong source</p><p><img src="attachment:0747591d-20d7-4ce7-9c4b-549bd18e9646:image.png" alt="image.png"></p><p><img src="attachment:562fb3c8-f6f8-43dc-a98b-f2ee71a7eb51:image.png" alt="image.png"></p><p>Mình sẽ thử tương tác với shell để xem có file gì đáng ngờ không bằng lệnh kết nối tới shell : </p><p><code>docker exec -it 2038c86ba79f3325060c1c50e0ec9e6fa35f0b73fc223ff46370973b04b97f8d /bin/sh</code></p><p>thì kết quả là như này :</p><p><img src="attachment:275f5a01-4567-4cf4-8d81-e504f6cd6d2a:image.png" alt="image.png"></p><p>có vẻ như tồn tại 1 file flag.txt ở root nhưng không có nội dung gì cả. nên có thể mục tiêu ở đây là tìm nội dung file flag. </p><p>sau đó mình chuyển sang phân tích về các layer của image khi được build. Khi pull một image về thì dù không đọc được Dockerfile hay Docker Compose, ta vẫn có thể đọc được các bước khi image được build lên, dùng chức năng phân tích của docker để xem toàn bộ lệnh khi các Layers được build thì ta có :</p><p><img src="attachment:33520e19-428b-44ed-b64b-b67022b844fb:image.png" alt="image.png"></p><p>với file <code>flag.txt</code> có 2 giai đoạn được đụng tới đó là  </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">COPY flag.txt /flag.txt</span><br></pre></td></tr></table></figure><p>để copy file <code>flag.txt</code> sang file <code>/flag.txt</code> của chủ sang image khi chạy <code>Dockerfile</code></p><p>kèm theo đó là  </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">RUN /bin/sh -c <span class="built_in">chmod</span> 400 /flag.txt</span><br><span class="line"> &amp;&amp;     <span class="built_in">echo</span> <span class="string">&quot;&quot;</span> &gt; /flag.txt <span class="comment"># buildkit</span></span><br></pre></td></tr></table></figure><p>để đưa 1 chuỗi rỗng khi đè vào file <code>flag.txt</code> để xóa đi nội dung file.</p><p>vậy nên chỗ này mình có thể đoán ra rằng mục tiêu của mình sẽ là đọc được file flag.txt tại layer đó. </p><h2 id="2-Phan-tich-huong-di"><a href="#2-Phan-tich-huong-di" class="headerlink" title="2. Phân tích  hướng đi"></a>2. Phân tích  hướng đi</h2><p>Cách đầu tiên mình nghĩ ra đó là cố gắng can thiệp vào quá trình build docker để nó không chạy được lệnh xóa nội dung file hoặc là đọc file flag.txt tại trạng thái nó chưa bị ghi đè.</p><p>thì kết quả research không mang lại gì, dù mình đã can thiệp được như để file flag.txt mang nội dung của file gốc thì cách này không khả thi. Không thể xem đào sâu vào image khi các layer đang build được. ( Mình thử dùng 1 tool tên là <code>dive</code> của window nhưng nó chỉ có thể theo dõi trạng thái qua từng bước build ). </p><p>Sau một hồi dạo quanh trên internet, lạc đường vào một hang động của những developers gặp những vấn đề như ta từ 20 năm trước, mình đã tìm ra được 1 bài post khá đúng ý, các bạn có thể đọc tại đây :</p><p><a href="https://stackoverflow.com/questions/40575752/docker-extracting-a-layer-from-a-image">https://stackoverflow.com/questions/40575752/docker-extracting-a-layer-from-a-image</a></p><p>Để tóm tắt thì với mỗi layer khi được build, ta có thể trích xuất các file tại các layer đó ra </p><p>⇒ Tại ngay lúc flag.txt được tạo ở thư mục gốc, ta có thể trích xuất nó ra và đọc nội dung trước khi nó được xử lí ở layer tiếp theo. </p><p>Bắt tay vào việc ta sẽ trích xuất bằng câu lệnh : </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">PS F:\&gt; docker save ph4n10m1808/findit:latest -o docker.tar</span><br></pre></td></tr></table></figure><p>sau khi trích xuất và giải nén ra </p><p><img src="attachment:2a693266-8a74-4bfb-b456-a863ef2b91bb:image.png" alt="image.png"></p><p>ta nhận được các file nén. (Số lượng có thể không khớp vì có thể một vài layer không trích xuất được)</p><p>Trích xuất các file một lần nữa bằng lệnh : </p><p><code>for layer in *; do tar -xf &quot;$layer&quot; -C ./zxc;done</code></p><p>thì nhận được file flag.txt cùng tất cả thư mục trích xuất được</p><p><img src="attachment:30b1b43a-c147-4178-ba98-89d42ae2044f:image.png" alt="image.png"></p><p>Flag : <code>VSL&#123;b91ea3e8285157eaf173d88d0a73ed5a&#125;</code></p>]]></content>
     
@@ -54,8 +82,6 @@
     
     
     <category term="Writeup" scheme="https://ld4vicl.github.io/categories/Writeup/"/>
-    
-    <category term="PWN" scheme="https://ld4vicl.github.io/categories/Writeup/PWN/"/>
     
     
     <category term="PWN" scheme="https://ld4vicl.github.io/tags/PWN/"/>
