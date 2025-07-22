@@ -1,0 +1,10 @@
+/* Ensure Press Start 2P is applied to key elements */
+body {
+  font-family: 'Press Start 2P', sans-serif !important;
+}
+pre, code {
+  font-family: 'Press Start 2P', monospace !important;
+}
+.site-title, .site-subtitle {
+  font-family: 'Press Start 2P', sans-serif !important;
+}
