@@ -3,11 +3,11 @@
   <title>Ld4vicl</title>
   
   
-  <link href="https://ld4vicl.github.io/atom.xml" rel="self"/>
+  <link href="https://zexecq.github.io/atom.xml" rel="self"/>
   
-  <link href="https://ld4vicl.github.io/"/>
+  <link href="https://zexecq.github.io/"/>
   <updated>2025-07-29T14:58:26.214Z</updated>
-  <id>https://ld4vicl.github.io/</id>
+  <id>https://zexecq.github.io/</id>
   
   <author>
     <name>Ld4vicl</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>[Writeup] - JHT PWN</title>
-    <link href="https://ld4vicl.github.io/2025/06/20/jht/"/>
-    <id>https://ld4vicl.github.io/2025/06/20/jht/</id>
+    <link href="https://zexecq.github.io/2025/06/20/jht/"/>
+    <id>https://zexecq.github.io/2025/06/20/jht/</id>
     <published>2025-06-19T17:14:35.000Z</published>
     <updated>2025-07-29T14:58:26.214Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="Writeup" scheme="https://ld4vicl.github.io/categories/Writeup/"/>
+    <category term="Writeup" scheme="https://zexecq.github.io/categories/Writeup/"/>
     
-    <category term="PWN" scheme="https://ld4vicl.github.io/categories/Writeup/PWN/"/>
+    <category term="PWN" scheme="https://zexecq.github.io/categories/Writeup/PWN/"/>
     
     
-    <category term="PWN" scheme="https://ld4vicl.github.io/tags/PWN/"/>
+    <category term="PWN" scheme="https://zexecq.github.io/tags/PWN/"/>
     
-    <category term="Writeup" scheme="https://ld4vicl.github.io/tags/Writeup/"/>
+    <category term="Writeup" scheme="https://zexecq.github.io/tags/Writeup/"/>
     
   </entry>
   
